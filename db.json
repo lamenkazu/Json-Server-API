@@ -1,0 +1,221 @@
+{
+  "albuns": [
+    {
+      "id": "0",
+      "titulo": "Blunt Skate Park",
+      "descrição": "BLUNT SKATEPARK - Shop & Escola de Skate",
+      "localização": "Rua Montes Claros, 173 - Carmo Belo Horizonte - MG, CEP: 30310-370",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/L4pzvhw.jpg"
+    },
+    {
+      "id": "1",
+      "titulo": "Esplanada",
+      "descrição": "Com 80 mil m², é considerada como um dos melhores locais para a prática de esportes como skate, patins, bicicleta, corrida e caminhada. O local também é palco de grandes shows e espetáculos. Com infraestrutura e segurança, possui serviços de alimentação e aluguel de bicicletas e outros equipamentos para sua diversão. O acesso do público é feito pelas entradas norte e sul e para quem gosta de arte urbana, a Esplanada Sul costuma ter painéis de grafite de diversos artistas convidados.",
+      "localização": "Avenida Antônio Abrahão Caram, 1001 - São José Pampulha",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/BmDgZNr.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Lagoa do Nado",
+      "descrição": "",
+      "localização": "",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/EujhVgU.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Mangabeiras",
+      "descrição": "Uso obrigatório de equipamento de segurança individual (capacete, cotoveleiras, joelheiras). Sem necessidade de agendamento.",
+      "localização": "Avenida José de Patrocínio Pontes, 580 - Portaria Sul – Mangabeiras Centro-Sul",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/sLHZC1i.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Nova Zoo",
+      "descrição": "A pista de skate NovaZoo, localizada no bairro Nova Floresta, em Belo Horizonte (MG), é uma das pistas de skate mais tradicionais e antigas da cidade e ganhou mais uma reforma e reformulação.",
+      "localização": "Rua José Geraldo Bessa, R. Salgueiro, 99 - Nova Floresta, Belo Horizonte - MG, 31140-400",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/9UrAlTE.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Santa Tereza",
+      "descrição": "Plaza abaixo do viaduto Santa Tereza no Centro de Belo Horizonte ao lado da Praça 7.",
+      "localização": "Av. Assis Chateaubriand, 1002 - Floresta, Belo Horizonte - MG, 30110-002",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/Q4MkAa0.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Spot Culture",
+      "descrição": "Localizado na área central da cidade, o Spot Culture é um espaço criativo de multiuso relacionado à cena do skate. Além de bar, oferece um espaço para treinamento e vivência para atletas e amadores do skate, com rampas e obstáculos disponíveis para uso. No local também há sinuca e ocorrem oficinas de arte e cultura (graffiti, música, fotografia e outras). Ainda, há um espaço de exibição de audiovisual, exposições e eventos de cunho cultural em geral, além de área para shows, skate shop, feira de brechós e restaurante. As programações semanais são lançadas no Instagram da página.",
+      "localização": "Spot Rua São Paulo, 978 - Centro Centro-Sul",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/utSzJx6.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Taboca",
+      "descrição": "O parque tem uma área aproximada de 59 mil metros quadrados e está inserido na macrobacia do Onça, na bacia da Avenida Nossa Senhora da Piedade e sub-bacia Nossa Senhora da Piedade. Inaugurado em junho de 2008, possui atualmente uma área ocupada por uma vegetação diversificada e por águas reavivadas. A iniciativa trouxe uma nova dinâmica para a vida dos moradores e estimula práticas saudáveis e de lazer. Os frequentadores contam com espaços para recreação infantil e exercícios físicos: pista de skate, brinquedos e quadras esportivas.",
+      "localização": "Rua Rubens de Souza Pimentel, 750 - Aarão Reis Norte",
+      "data": "10 de Setembro de 2023",
+      "url": "https://i.imgur.com/lyfDzhC.jpg"
+    }
+  ],
+  "fotos": [
+    {
+      "id": "0",
+      "album": "0",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/12NrY4H.jpg"
+    },
+    {
+      "id": "1",
+      "album": "0",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/Qvu8AAO.png"
+    },
+    {
+      "id": "2",
+      "album": "0",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/FI2W60y.jpg"
+    },
+
+    {
+      "id": "3",
+      "album": "1",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/CEF95WZ.png"
+    },
+    {
+      "id": "4",
+      "album": "1",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/olPr4zz.png"
+    },
+    {
+      "id": "5",
+      "album": "1",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/8Zs1ZD9.png"
+    },
+
+    {
+      "id": "6",
+      "album": "2",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/z6hHJgV.jpg"
+    },
+    {
+      "id": "7",
+      "album": "2",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/U3tXv9w.jpg"
+    },
+    {
+      "id": "23",
+      "album": "2",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/FIs6XHc.jpg"
+    },
+
+    {
+      "id": "8",
+      "album": "3",
+      "descrição": "",
+      "url": "https://i.imgur.com/bPLvWjz.jpg"
+    },
+    {
+      "id": "9",
+      "album": "3",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/9JRXQPQ.jpg"
+    },
+    {
+      "id": "10",
+      "album": "3",
+      "descrição": "",
+      "url": "https://i.imgur.com/ab5AL1t.jpg"
+    },
+
+    {
+      "id": "11",
+      "album": "4",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/3r1Ptci.jpg"
+    },
+    {
+      "id": "12",
+      "album": "4",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/tOsJ3AM.jpg"
+    },
+    {
+      "id": "13",
+      "album": "4",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/jhNCdaK.jpg"
+    },
+
+    {
+      "id": "14",
+      "album": "5",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/5xxvZV1.jpg"
+    },
+    {
+      "id": "15",
+      "album": "5",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/bBeqUBf.jpg"
+    },
+
+    {
+      "id": "16",
+      "album": "6",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/txTWQgX.png"
+    },
+    {
+      "id": "17",
+      "album": "6",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/SlTu3bk.png"
+    },
+    {
+      "id": "18",
+      "album": "6",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/jg6mppM.png"
+    },
+    {
+      "id": "19",
+      "album": "6",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/VBExiZM.png"
+    },
+
+    {
+      "id": "20",
+      "album": "7",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/H25Gt6n.png"
+    },
+    {
+      "id": "21",
+      "album": "7",
+      "descrição": "",
+      "url": "https://i.imgur.com/TSz63vG.png"
+    },
+    {
+      "id": "22",
+      "album": "7",
+      "descrição": "Descrição breve do item 1. Lorem ipsum dolor sit amet.",
+      "url": "https://i.imgur.com/YCOJJ9d.png"
+    }
+  ]
+}
